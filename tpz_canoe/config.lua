@@ -22,7 +22,7 @@ Config.PickupCommand = 'pickupcanoe'
 Config.DropCommand = 'dropcanoe'
 
 -- Set to true if you are using oxtarget.
-Config.oxtarget = true
+Config.oxtarget = false
 
 -----------------------------------------------------------
 --[[ Canoes ]]--
